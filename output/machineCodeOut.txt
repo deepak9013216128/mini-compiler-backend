@@ -1,0 +1,13 @@
+Datasize: 1 Strings: 1
+"\n"
+    0 push  5
+    5 store [0]
+   10 fetch [0]
+   15 push  10
+   20 lt
+   21 jz     (16) 38
+   26 fetch [0]
+   31 prti
+   32 push  0
+   37 prts
+   38 halt

@@ -1,0 +1,20 @@
+    4      1 Identifier      number
+    4      8 Op_assign      
+    4     10 Integer             5
+    4     11 Semicolon      
+    6      1 Keyword_if     
+    6      3 LeftParen      
+    6      4 Identifier      number
+    6     10 Op_less        
+    6     11 Integer            10
+    6     13 RightParen     
+    6     14 LeftBrace      
+   10      2 Keyword_print  
+   10      7 LeftParen      
+   10      8 Identifier      number
+   10     14 Comma          
+   10     16 String          "\n"
+   10     20 RightParen     
+   10     21 Semicolon      
+   11      1 RightBrace     
+   11      2 End_of_input   

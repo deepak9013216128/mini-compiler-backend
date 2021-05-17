@@ -1,0 +1,11 @@
+/*
+  Comments supported
+ */
+number = 5;
+
+if(number<10){
+/*
+  Comments supported
+ */
+	print(number, "\n");
+}
